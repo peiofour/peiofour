@@ -1,12 +1,11 @@
-# Hi there 👋
+# Hello there 👋
 
 ## About me
 
-I'm Pierre, a 26 years old french software engineer from Toulouse in France.
+I'm Pierre, a french software engineer from Toulouse in France. I work mainly on web technologies, front-end and back-end.
 
-- ⚡️ I'm currently working at [LoungeUp](https://www.loungeup.com/) as lead front-end developer.
 - 🌱 I'm currently learning [Kubernetes](https://kubernetes.io/) and [Go](https://golang.org/).
-- 🗞️ You can fin my last blog post [on my website](https://www.pierrefournier.dev).
+- 🗞️ You can fin my portofolio and blog [on my website](https://www.pierrefournier.dev).
 - 📫 You can reach me on [LinkedIn](https://www.linkedin.com/in/pierrefournier1/).
 
 
