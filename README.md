@@ -4,10 +4,9 @@
 
 I'm Pierre, a french software engineer from Toulouse in France. I work mainly on web technologies, front-end and back-end.
 
-- 🌱 I'm currently learning [Kubernetes](https://kubernetes.io/) and [Go](https://golang.org/).
+- 🎓 I'm currently training to obtain the [AWS Developer Associate certification](https://aws.amazon.com/fr/certification/certified-developer-associate/).
 - 🗞️ You can fin my portofolio and blog [on my website](https://www.pierrefournier.dev).
-- 📫 You can reach me on [LinkedIn](https://www.linkedin.com/in/pierrefournier1/).
-
+- 📫 You can contact me on [LinkedIn](https://www.linkedin.com/in/pierrefournier1/) and by [email](mailto:contact@pierrefournier.dev).
 
 ## My tech stack
 
